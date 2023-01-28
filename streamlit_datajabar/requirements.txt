@@ -1,0 +1,4 @@
+scipy
+streamlit
+pandas
+plotly
